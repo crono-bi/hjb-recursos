@@ -1,4 +1,4 @@
-﻿[CodiGrup] varchar PRIMARY KEY;Grup;Posicio;[Comptes] csv
+[CodiGrup] varchar PRIMARY KEY;Grup;Posicio;[Comptes] csv
 BAI;BAI, Resultat Abans d'Impostos;23;
  FIN;Despeses financeres;22;
  EBIT;EBIT, Resultat Operatiu;21;
@@ -11,7 +11,7 @@ BAI;BAI, Resultat Abans d'Impostos;23;
    OPEX;OPEX;15;
     PEATGES;Peatges;2;60013000002,60013000003,60013000001
     REP;Representació venda energia;3;62300000035
-    BS;Bo social;4;62300000031
+    BS;Bo social i costos regulats operador;4;62300000031
     M;Manteniments;5;62200000002,62200000031,62200000033,62217000000,62200000004,62300000032
     ASSE;Assessories;6;62300000040,62330000001,62300000003,62330000401,62300000004
     SERVEIS;Serveis de grup;7;64000000002,64000000008,64000000009,64000000010
