@@ -1,4 +1,4 @@
-﻿[CodiGrup] varchar PRIMARY KEY;Grup;Posicio;[Comptes] csv
+[CodiGrup] varchar PRIMARY KEY;Grup;Posicio;[Comptes] csv
 BN;Benefici net;25;
  BAI;BAI, Resultat Abans d'Impostos;23;
   EBIT;EBIT, Resultat operatiu;19;
@@ -19,7 +19,7 @@ BN;Benefici net;25;
      OPEX_C4;Accionistes general;13;
    AM_01;Amortitzacions;16;
    AM_02;Provisions i deterior. immobilitzat;17;690,691,692,790,791,792
-   AM_03;Provisions i deterior. participades;18;697,696,698,699,796,797,798,799
+   AM_03;Provisions i deterior. empreses holding;18;697,696,698,699,796,797,798,799,676
   RF;Resultat financer;22;
    RF_1;Resultat financer (+);20;
    RF_2;Resultat financer (-);21;
