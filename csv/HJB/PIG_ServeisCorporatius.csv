@@ -1,4 +1,4 @@
-﻿[CodiGrup] varchar PRIMARY KEY;Grup;Posicio;[Comptes] csv
+[CodiGrup] varchar PRIMARY KEY;Grup;Posicio;[Comptes] csv
 BAI;BAI, Resultat Abans d'Impostos;23;
  FIN;Despeses financeres;22;
  EBIT;EBIT, Resultat Operatiu;21;
@@ -20,5 +20,5 @@ BAI;BAI, Resultat Abans d'Impostos;23;
      GRAL3;Comissions bancàries;10;
      GRAL4;Material oficina;11;62950000011
      GRAL5;selecció de personal;11;
-     GRAL6;Tributs, taxes;13;63100000010,63100000029
+     GRAL6;Tributs, taxes;13;63100000010,63100000029,62300000026
      GRAL7;Dietes i desplaçaments;14;
