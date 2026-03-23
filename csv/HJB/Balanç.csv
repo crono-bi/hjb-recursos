@@ -32,6 +32,7 @@ ACTIU;ACTIU;XX
    ACTIU.V.4;4. Derivats;255
    ACTIU.V.5;5. Altres actius financers;258,26
    ACTIU.V.6;6. Altres inversions;
+  ACTIU.VI 6;Actiu No Corrent_VI Actius per impost diferit;
   ACTIU.VI;VI. Actius per impost diferit;474
   ACTIU.VII;VII. Deutes comercials no corrents;
  ACTIU.B;B) ACTIU CORRENT;
@@ -121,4 +122,3 @@ PASSIU;PASSIU;
    PASSIU.C.V.7;7. Acomptes de clients;438
   PASSIU.C.VI;VI. Periodificacions a curt termini;485,568
   PASSIU.C.VII;VII. Deutes amb característiques especials a c/t;
-ACTIU.VI 6;Actiu No Corrent_VI Actius per impost diferit;
