@@ -32,8 +32,8 @@ ACTIU;ACTIU;XX
    ACTIU.V.4;4. Derivats;255
    ACTIU.V.5;5. Altres actius financers;258,26
    ACTIU.V.6;6. Altres inversions;
-  ACTIU.VI;VI. Actius per impost diferit;474
-  ACTIU.VI 6;Actiu No Corrent_VI Actius per impost diferit;
+  ACTIU.VI;VI.Actiu No Corrent_VI Actius per impost diferit;
+  ACTIU.VI.6;VI. Actius per impost diferit;474
   ACTIU.VII;VII. Deutes comercials no corrents;
  ACTIU.B;B) ACTIU CORRENT;
   ACTIU.B.I;I. Actius no corrents mantinguts per a la venda;580,581,582,583,584,599
